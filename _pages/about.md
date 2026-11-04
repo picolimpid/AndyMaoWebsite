@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Hanqi Mao, and most people call me Andy. I am originally from Tianjin, China, and I am currently a graduate student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
+Hi, my name is Hanqi Mao, and most people call me Andy. I am originally from Tianjin, China, and I am currently an M.S. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I am working with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at [UIUC](https://illinois.edu/).
 
 My interests lie at the intersection of human-computer interaction (HCI), computational social science, and large language models. I study how people behave and interact on online platforms such as Bluesky, Reddit, and Steam, combining large-scale behavioral and text data with causal-inference methods like propensity score stratification. On the machine learning side, I work on retrieval-augmented generation, including distilling HyDE-style hypothetical-document retrieval into a single efficient query encoder, and I am interested in fairness and social bias in generative models.
 

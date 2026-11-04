@@ -1,6 +1,6 @@
-# picolimpid.github.io
+# AndyMaoWebsite
 
-Personal website of Hanqi (Andy) Mao — https://picolimpid.github.io
+Personal website of Hanqi (Andy) Mao — https://picolimpid.github.io/AndyMaoWebsite
 
 Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme, starting from the layout of [melissashi2002.github.io](https://github.com/melissashi2002/melissashi2002.github.io).
 
