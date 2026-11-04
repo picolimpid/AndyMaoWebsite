@@ -25,4 +25,4 @@ Hi, my name is Hanqi Mao, and most people call me Andy. I am originally from Tia
 
 My interests lie at the intersection of human-computer interaction (HCI), computational social science, and large language models. I study how people behave and interact on online platforms such as Bluesky, Reddit, and Steam, combining large-scale behavioral and text data with causal-inference methods like propensity score stratification. On the machine learning side, I work on retrieval-augmented generation, including distilling HyDE-style hypothetical-document retrieval into a single efficient query encoder, and I am interested in fairness and social bias in generative models.
 
-Outside of research I enjoy building software end to end, from Go microservices to Android apps, and I love playing football ⚽. Please feel free to reach out at [hanqim2@illinois.edu](mailto:hanqim2@illinois.edu)!
+Outside of research, I love playing football ⚽. Please feel free to reach out at [hanqim2@illinois.edu](mailto:hanqim2@illinois.edu)!
